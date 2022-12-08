@@ -9,7 +9,7 @@ public class runthis {
         //Integer[] test = read();
         //System.out.println(helper(test));
 
-        Q2 answer = new Q2();
+        Q3 answer = new Q3();
 
         System.out.println(answer.solveP1());
         System.out.println(answer.solveP2());
